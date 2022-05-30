@@ -1,2 +1,2 @@
-# firstproject
-This repo is my first project on git
+# Mad lab exercises
+only java files
